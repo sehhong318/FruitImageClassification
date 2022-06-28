@@ -8,4 +8,4 @@ As there are plenty of techniques in image classification, three standard method
 
 To test out the techniques, we have introduced a fruit classification problem using the [Fruit-360](https://www.kaggle.com/datasets/moltean/fruits) dataset and construct the models using SIFT and SURF as feature extraction functions and SVM as the classifier. CNN is used to classify the fruits without any external feature extraction methods. Then, several evaluation methods are proposed to evaluate the efficiency of the models in classifying the classes of fruits. Based on the findings, CNN exhibits the most accurate classification of the fruits compared to the other two models, which are using SIFT and SURF as feature extraction methods.
 
-[embed]VIP_Project_Final_Version.pdf[/embed]
+[View the paper](https://github.com/sehhong318/FruitImageClassification/blob/main/VIP_Project_Final_Version.pdf)
